@@ -1,8 +1,8 @@
-# Hi there
+# Hi there!
 
 <details>
   <summary>📖 What I'm studing</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;Right now, I'm studing the python language and spring boot framework with java
+  &nbsp;&nbsp;&nbsp;&nbsp;Right now, I'm studing the python language and spring boot framework with java.
 </details>
 
 <!--
