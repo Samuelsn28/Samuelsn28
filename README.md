@@ -1,8 +1,8 @@
 # Hi there
 
 <details>
-  <summary>I'm living!</summary>
-  Yes, I'm living
+  <summary>- 📖 What I'm studing</summary>
+  Right now, I'm studing the python language and spring boot framework with java
 </details>
 
 <!--
