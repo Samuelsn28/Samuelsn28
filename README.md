@@ -1,7 +1,7 @@
 # Hi there
 
 <details>
-  <summaty>I'm living!</summaty>
+  <summary>I'm living!</summary>
   Yes, I'm living
 </details>
 
