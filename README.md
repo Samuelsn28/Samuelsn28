@@ -1,7 +1,10 @@
 # Hi there
-## Hi there
-### Hi there 👋
-<h1>Testing this...</h1>
+
+<details>
+  <summaty>I'm living!</summaty>
+  Yes, I'm living
+</details>
+
 <!--
 **Samuelsn28/Samuelsn28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
