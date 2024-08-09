@@ -1,7 +1,7 @@
 # Hi there!
 
 <details>
-  <summary>📖 What I'm studing</summary>
+  <summary><h3>📖 What I'm studing</h3></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;Right now, I'm studing the python language and spring boot framework with java.
 </details>
 
