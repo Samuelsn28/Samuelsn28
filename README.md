@@ -1,7 +1,7 @@
 # Hi there!
 
 <details>
-  <summary style="font-size: 500px;">📖 What I'm studing</summary>
+  <summary>📖 What I'm studing</summary>
   &nbsp;&nbsp;&nbsp;&nbsp;Right now, I'm studing the python language and spring boot framework with java.
 </details>
 
