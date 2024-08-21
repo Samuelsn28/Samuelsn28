@@ -1,7 +1,10 @@
 # Hi there!
 
 <p align="center">
-  "Ser feliz não é ter uma vida perfeita,mas deixar de ser vítima dos problemas e se tornar o autor da própria história"
+  "Ser feliz não é ter uma vida perfeita, mas deixar de ser vítima dos problemas e se tornar o autor da própria história."
+</p>
+<p align="right">
+  <strong>- Abrahan Lincoln</strong>
 </p>
 
 <details>
