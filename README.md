@@ -11,6 +11,14 @@
   &nbsp;&nbsp;&nbsp;&nbsp;Right now, I'm studing the python language and spring boot framework with java.
 </details>
 
+```java
+public class Test {
+  public static void main(String[] args){
+    System.out.println("This is a simple test");
+  }
+}
+```
+
 <!--
 **Samuelsn28/Samuelsn28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
