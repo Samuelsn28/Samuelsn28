@@ -1,5 +1,9 @@
 # Hi there!
 
+<p align="center">
+  "Ser feliz não é ter uma vida perfeita,mas deixar de ser vítima dos problemas e se tornar o autor da própria história"
+</p>
+
 <details>
   <summary>📖 What I'm studing</summary>
   &nbsp;&nbsp;&nbsp;&nbsp;Right now, I'm studing the python language and spring boot framework with java.
