@@ -7,7 +7,7 @@
 </p>
 
 <details>
-  <summary>🙋‍♂️ Who I'm/summary>
+  <summary>🙋‍♂️ Who I'm</summary>
   &nbsp;&nbsp;&nbsp;&nbsp;I'm a brazilian man that likes to write codes.
 </details>
 
