@@ -7,8 +7,8 @@
 </p>
 
 <details>
-  <summary>📖 What I'm studing</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;Right now, I'm studing the python language and spring boot framework with java.
+  <summary>🙋‍♂️ Who I'm/summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;I'm a brazilian man that likes to write codes.
 </details>
 
 <!--
