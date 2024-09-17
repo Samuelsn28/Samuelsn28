@@ -7,8 +7,9 @@
 </p>
 
 <details>
-  <summary>🙋‍♂️ Who I'm</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;I'm a brazilian man that likes to write codes.
+  <summary>🙋‍♂️ Quem sou eu</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;Me chamo Samuel, sou um estudante brasileiro da ETEC de Santa Isabel
+  cursando o 1º ano do ensino médio junto com o técnico em informática para internet.
 </details>
 
 <!--
