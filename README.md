@@ -30,6 +30,7 @@
 <h3>🔧 Tools</h3>
 <section style="flex-basis: 48%">
   <img align="center" alt="Android Studio" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Firebase" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg">
 </section>
 
 
