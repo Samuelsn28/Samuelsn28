@@ -21,13 +21,13 @@
 </p>
 
 ## 🔥 Skills
-<h3>⚙️- Programming Languages</h3>
+<h3>⚙️ Programming Languages</h3>
 <section style="flex-basis: 48%">
   <img align="center" alt="Java" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
   <img align="center" alt="Kotlin" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </section>
-<h3>🔧- Tools</h3>
+<h3>🔧 Tools</h3>
 <section style="flex-basis: 48%">
   <img align="center" alt="Android Studio" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-original.svg">
 </section>
