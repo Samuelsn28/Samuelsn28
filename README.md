@@ -7,9 +7,7 @@
 </p>
 
 <p>
-  <strong>🙋‍♂️ Who I'm</strong>
-  <br>
-  Hello! I'm Samuel, I'm a brazilian developer that like to code and study.
+  🙋‍♂️ Hello! I'm Samuel, I'm a brazilian developer that like to code and study.
 </p>
 
 <!--
