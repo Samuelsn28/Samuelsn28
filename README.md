@@ -7,9 +7,8 @@
 </p>
 
 <details>
-  <summary>🙋‍♂️ Quem sou eu</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;Me chamo Samuel, sou um estudante brasileiro da ETEC de Santa Isabel
-  cursando o 1º ano do ensino médio junto com o técnico em informática para internet.
+  <summary>🙋‍♂️ Who I'm</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;Hello! I'm Samuel, I'm a brazilian developer that like to code and study.
 </details>
 
 <!--
