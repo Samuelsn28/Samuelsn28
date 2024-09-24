@@ -27,6 +27,7 @@
   <img align="center" alt="Android Studio" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-original.svg">
 </section>
 
+https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif
 
 <!--
 **Samuelsn28/Samuelsn28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
