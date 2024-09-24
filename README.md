@@ -15,6 +15,11 @@
   <p>Currently, I'm studying development of websites and android apps.</p>
 </details>
 
+<!-- Gif -->
+<p align="center">
+  <img width="30%" height="30%" align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Gif">
+</p>
+
 ## 🔥 Skills
 <h3>⚙️- Programming Languages</h3>
 <section style="flex-basis: 48%">
@@ -27,7 +32,7 @@
   <img align="center" alt="Android Studio" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-original.svg">
 </section>
 
-https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif
+
 
 <!--
 **Samuelsn28/Samuelsn28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
