@@ -6,10 +6,11 @@
   <strong>- Abrahan Lincoln</strong>
 </p>
 
-<details>
-  <summary>🙋‍♂️ Who I'm</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;Hello! I'm Samuel, I'm a brazilian developer that like to code and study.
-</details>
+<p>
+  <strong>🙋‍♂️ Who I'm</strong>
+  <br>
+  Hello! I'm Samuel, I'm a brazilian developer that like to code and study.
+</p>
 
 <!--
 ## 🔥 Skills
