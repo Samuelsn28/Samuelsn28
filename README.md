@@ -1,11 +1,7 @@
 # Good morning!  ☕
 
 <!-- phrase -->
-<p align="center">
-  "Ser feliz não é ter uma vida perfeita, mas deixar de ser vítima dos problemas e se tornar o autor da própria história."
-  <br>
-  <strong>- Abrahan Lincoln</strong>
-</p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ser+feliz+não+é+ter+uma+vida+perfeita,+mas+deixar+de+ser+vítima+dos+problemas+e+se+tornar+o+autor+da+própria+história.&author=Abrahan+Lincoln)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- Apresentation -->
 <p>
@@ -25,7 +21,7 @@
   <img width="30%" height="30%" align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Gif">
 </p>
 
-## 🔥 Skills
+## :fire: Skills
 <h3>⚙️ Languages</h3>
 <section style="flex-basis: 48%">
   <img align="center" alt="Java" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
@@ -38,7 +34,7 @@
   
 </section>
 
-## 📊 Stats
+## :bar_chart: Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact)
 
 
