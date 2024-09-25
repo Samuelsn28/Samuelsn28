@@ -1,15 +1,18 @@
-# Good morning! ☕
+# Good morning!  ☕
 
+<!-- phrase -->
 <p align="center">
   "Ser feliz não é ter uma vida perfeita, mas deixar de ser vítima dos problemas e se tornar o autor da própria história."
   <br>
   <strong>- Abrahan Lincoln</strong>
 </p>
 
+<!-- Apresentation -->
 <p>
   🙋‍♂️ Hello! I'm Samuel, I'm a brazilian programming student that like to code and study.
 </p>
 
+<!-- About me -->
 <details>
   <summary>🌱- I’m currently learning</summary>
   <ul style="list-style-type:none">
@@ -32,14 +35,21 @@
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <img align="center" alt="html5" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg">
+  
 </section>
+
+## 📊 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact)
+
+
+
+
+
 <!--h3>🔧 Tools</h3>
 <section style="flex-basis: 48%">
   <img align="center" alt="Android Studio" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Firebase" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg"-->
-</section>
-
-
+  <img align="center" alt="Firebase" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg">
+</section-->
 
 <!--
 **Samuelsn28/Samuelsn28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
