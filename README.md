@@ -5,7 +5,7 @@
 
 <!-- Apresentation -->
 <p>
-  🙋‍♂️ Hello! I'm Samuel, I'm a brazilian programming student that like to code and study.
+  🙋‍♂️ Hello! I'm Samuel, I'm a brazilian programming student.
 </p>
 
 <!-- About me -->
@@ -13,6 +13,17 @@
   <summary>🌱- I’m currently learning</summary>
   <ul style="list-style-type:none">
     Currently, I'm studying development of websites.
+  </ul>
+</details>
+
+<details>
+  <summary>🧒 More About Me</summary>
+  <ul>
+    <li>
+      🇧🇷 I'm 16 years old and I'm live in São Paulo.
+    <li>
+      📚 Student of ETEC de Santa Isabel studying computer science for internet.
+    </li>
   </ul>
 </details>
 
