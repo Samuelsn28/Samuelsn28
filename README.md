@@ -21,7 +21,7 @@
   <img width="30%" height="30%" align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Gif">
 </p>
 
-## :fire: Skills
+## :fire: My Skills
 <h3>⚙️ Languages</h3>
 <section style="flex-basis: 48%">
   <img align="center" alt="Java" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
@@ -34,8 +34,8 @@
   
 </section>
 
-## :bar_chart: Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact)
+## :bar_chart: My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=github_dark)
 
 
 
