@@ -12,7 +12,7 @@
 <details>
   <summary>🌱- I’m currently learning</summary>
   <ul style="list-style-type:none">
-    Currently, I'm studying development of websites.
+    Currently, I'm studying development of websites with HTML5 and CSS3.
   </ul>
 </details>
 
