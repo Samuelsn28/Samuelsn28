@@ -10,10 +10,17 @@
 
 <!-- About me -->
 <details>
-  <summary>🌱- I’m currently learning</summary>
+  <summary>🌱 I’m currently learning</summary>
   <ul style="list-style-type:none">
     Currently, I'm studying development of websites with HTML5 and CSS3.
   </ul>
+</details>
+
+<details>
+   <summary>🧑‍💻 I'm working in</summary>
+   <ul style="list-style-type:none">
+      Right now, I'm 
+   </ul>
 </details>
 
 <details>
