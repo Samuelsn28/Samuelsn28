@@ -55,7 +55,7 @@
 </section>
 
 ## :bar_chart: My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=transparent&bg_color=00000000)
 
 
 
