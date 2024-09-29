@@ -19,7 +19,7 @@
 <details>
    <summary>🧑‍💻 I'm working in</summary>
    <ul style="list-style-type:none">
-      Right now, I'm 
+      Right now, I'm not working in anything project.
    </ul>
 </details>
 
