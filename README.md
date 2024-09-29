@@ -55,12 +55,7 @@
 </section>
 
 ## :bar_chart: My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=github_dark)
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=github_dark" />
-</a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=transparent)
 
 
 
