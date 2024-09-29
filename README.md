@@ -57,6 +57,10 @@
 ## :bar_chart: My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=github_dark)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+
 
 
 
