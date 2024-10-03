@@ -32,7 +32,7 @@
       📚 Student of ETEC de Santa Isabel studying computer science for internet.
     </li>
     <li>
-      <img align="center" alt="Arch Linux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg"> Using Arch Linux.
+      <img align="center" alt="Arch Linux" height="27.5" width="27.5" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg"> Using Arch Linux.
     </li>
   </ul>
 </details>
