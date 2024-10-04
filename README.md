@@ -4,9 +4,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ser+feliz+não+é+ter+uma+vida+perfeita,+mas+deixar+de+ser+vítima+dos+problemas+e+se+tornar+o+autor+da+própria+história.&author=Abraham+Lincoln)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- Apresentation -->
-<p>
-  🙋‍♂️ Hello! I'm Samuel, I'm a brazilian programming student.
-</p>
+## 🙋‍♂️ Hello! I'm Samuel, I'm a brazilian programming student.
 
 <!-- About me -->
 <details>
