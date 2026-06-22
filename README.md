@@ -40,16 +40,8 @@
   
 </section>
 
-<!--h3>🔧 Tools</h3>
-<section style="flex-basis: 48%">
-  
-  sublime?
-  
-</section-->
 
 ## :bar_chart: My Stats
 ![All stats](https://github-readme-stats.vercel.app/api?username=Samuelsn28&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=github_dark&language_count=6)
-
-
 
