@@ -42,6 +42,6 @@
 
 
 ## :bar_chart: My Stats
-![All stats](https://github-readme-stats.vercel.app/api?username=Samuelsn28&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=github_dark&language_count=6)
+[![All Stats](https://github-readme-stats.vercel.app/api?username=Samuelsn28&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsn28&layout=compact&theme=github_dark&language_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
