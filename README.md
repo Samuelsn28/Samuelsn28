@@ -1,8 +1,6 @@
 
 `Making my life simpler.`
 
-##  Stats
-
 <table>
 <tr>
 <td>
