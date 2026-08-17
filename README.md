@@ -3,6 +3,9 @@
 
 <br />
 
+- Focusing on PHP
+- Exploring DevOps
+
 # 
 
 <table>
